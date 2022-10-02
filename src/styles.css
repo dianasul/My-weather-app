@@ -90,3 +90,9 @@ ul {
   font-weight: 500;
   margin-top: 15px;
 }
+
+footer {
+  font-family: "Space Mono", monospace;
+  font-size: 12px;
+  text-align: center;
+}
