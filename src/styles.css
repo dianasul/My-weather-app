@@ -1,0 +1,81 @@
+.container {
+  font-family: "Poppins", sans-serif;
+}
+
+.weather-app {
+  /* background: #e8f4ff; */
+  max-width: 600px;
+  padding: 20px;
+  margin: 50px auto;
+  border-radius: 0.375rem;
+}
+
+.location {
+  color: #0e5ed7;
+}
+
+.city-search {
+  margin-bottom: 25px;
+}
+
+h1 {
+  font-size: 25px;
+  margin: 0;
+}
+
+.weather-details {
+  font-size: small;
+  color: #6c6c6c;
+}
+
+.current-degree {
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.current-unit,
+.other-unit {
+  position: relative;
+  top: -30px;
+}
+
+.other-unit {
+  color: #6c6c6c;
+}
+
+.current-weather-icon {
+  max-width: 80px;
+}
+
+.day-of-the-week,
+.forecast-icon,
+.forecast-temp {
+  line-height: 3em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+#description {
+  text-transform: capitalize;
+}
+
+.forecast-weather-icon {
+  max-width: 35px;
+}
+
+.high-temp {
+  font-weight: 500;
+}
+
+.low-temp {
+  color: #6c6c6c;
+}
+
+.tip {
+  font-style: bold;
+  font-weight: 500;
+  margin-top: 15px;
+}
