@@ -34,6 +34,14 @@ h1 {
   margin: 0;
 }
 
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+#description {
+  text-transform: capitalize;
+}
 .weather-details {
   font-size: small;
   color: #6c6c6c;
@@ -64,14 +72,7 @@ h1 {
   line-height: 3em;
 }
 
-ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-#description {
-  text-transform: capitalize;
-}
+
 
 .forecast-weather-icon {
   max-width: 35px;
